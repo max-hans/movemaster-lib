@@ -1,6 +1,6 @@
 # Movemaster Robot Library
 
-This project allows you to control a "vintage" Mitsubishi Movemaster EX Robot using Javascript and the serial RS232 port – Either by creating your own logic or via a REST API.
+This project allows you to control a "vintage" Mitsubishi Movemaster EX Robot using Javascript via the serial RS232 port.
 
 > This project relies heavily on the great work by Daniel Springwald – all documented [here](https://github.com/Springwald/Movemaster-RV-M1-Library).
 
@@ -336,7 +336,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 MIT
-
-## Acknowledgments
-
-This project relies heavily on the great work by Daniel Springwald – all documented [here](https://github.com/Springwald/Movemaster-RV-M1-Library).
