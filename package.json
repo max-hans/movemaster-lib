@@ -1,6 +1,6 @@
 {
   "name": "movemaster-robot",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A module to control a Mitsubishi Movemaster EX RV-M1 robotic arm",
   "keywords": [
     "robot",
@@ -21,7 +21,8 @@
   },
   "scripts": {
     "test": "tsc --noEmit",
-    "build": "tsup"
+    "build": "tsup",
+    "push": "tsup && npm publish"
   },
   "author": "Maximilian Hans",
   "license": "MIT",
