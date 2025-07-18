@@ -2,6 +2,8 @@
 
 This project allows you to control a "vintage" Mitsubishi Movemaster EX Robot using Javascript via the serial RS232 port.
 
+![Cover Image](github/cover.png)
+
 > This project relies heavily on the great work by Daniel Springwald – all documented [here](https://github.com/Springwald/Movemaster-RV-M1-Library).
 
 ## Installation
