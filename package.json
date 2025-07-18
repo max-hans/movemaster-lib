@@ -27,10 +27,10 @@
   "author": "Maximilian Hans",
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^24.0.14",
     "serialport": "^13.0.0"
   },
   "devDependencies": {
+    "@types/node": "^24.0.14",
     "@biomejs/biome": "^2.1.1",
     "tsup": "^8.5.0",
     "typescript": "^5.8.3"
