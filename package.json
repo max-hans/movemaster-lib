@@ -1,0 +1,33 @@
+{
+  "name": "movemaster-robot",
+  "version": "1.0.0",
+  "description": "A module to control a Mitsubishi Movemaster EX RV-M1 robotic arm",
+  "keywords": [
+    "robot",
+    "robotics",
+    "serialport",
+    "movemaster",
+    "mitsubishi"
+  ],
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "tsc --noEmit",
+    "build": "tsup"
+  },
+  "author": "Maximilian Hans",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^24.0.14",
+    "serialport": "^13.0.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.1.1",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3"
+  }
+}
