@@ -4,6 +4,8 @@ This project allows you to control a "vintage" Mitsubishi Movemaster EX Robot us
 
 <img src="https://i.ibb.co/93WB92FY/cover.png" style="width:100%;height:auto;"></img>
 
+![cover](./github/cover.png)
+
 > This project relies heavily on the great work by Daniel Springwald – all documented [here](https://github.com/Springwald/Movemaster-RV-M1-Library).
 
 ## Installation
