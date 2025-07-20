@@ -1,7 +1,7 @@
 {
   "name": "movemaster-robot",
-  "version": "1.0.4",
-  "description": "A module to control a Mitsubishi Movemaster EX RV-M1 robotic arm",
+  "version": "1.0.5",
+  "description": "A module to control a Mitsubishi Movemaster EX RV-M1 robotic arm via USB",
   "keywords": [
     "robot",
     "robotics",
